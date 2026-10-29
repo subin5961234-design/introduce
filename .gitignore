@@ -1,0 +1,11 @@
+node_modules/
+.next/
+.netlify/
+.pnpm-store/
+.aistudio/
+public/assets/aistudio/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example

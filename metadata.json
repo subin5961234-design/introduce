@@ -1,0 +1,8 @@
+{
+  "name": "STAR-Craft | AI 맞춤형 자기소개서 빌더",
+  "description": "STAR 기법 기반으로 나의 실제 역량과 경험을 기업 채용공고에 완벽하게 매칭하는 맞춤형 자소서 생성 및 DOCX/PDF 다운로드 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
